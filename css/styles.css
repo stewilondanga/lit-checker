@@ -156,7 +156,7 @@ input {
 }
 
 /* LAMP */
-/*.lamp {
+.lamp {
   position: absolute;
   left: 700px;
   top: 0;
@@ -164,7 +164,8 @@ input {
   height: 260px;
   background-color: #000;
 }
-.lamp:before {
+
+/*.lamp:before {
   content: '';
   position: absolute;
   left: -5px;
