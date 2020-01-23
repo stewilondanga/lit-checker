@@ -103,7 +103,7 @@ input {
   background-color: var(--metal);
 }
 
-/*.switch-contact:nth-of-type(2):before,
+.switch-contact:nth-of-type(2):before,
 .switch-contact:nth-of-type(2):after,
 .switch-contact:nth-of-type(3):before,
 .switch-contact:nth-of-type(3):after {
@@ -112,7 +112,8 @@ input {
   border: 2px solid var(--metal-dark);
   border-width: 0 2px;
 }
-.switch-contact:nth-of-type(3):before,
+
+/*.switch-contact:nth-of-type(3):before,
 .switch-contact:nth-of-type(3):after {
   bottom: 140px;
 }
