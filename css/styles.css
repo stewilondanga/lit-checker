@@ -59,11 +59,12 @@ input {
   transition: transform 2s ease;
 }
 
-/*:checked + .switch {
+:checked+.switch {
   transition: transform 2s ease, filter .2s ease 1.8s;
   filter: brightness(1.3);
 }
-:checked + .switch > .switch-lever {
+
+/*:checked + .switch > .switch-lever {
   transform: none;
 }
 .switch-lever:before {
