@@ -127,7 +127,7 @@ input {
 }
 
 /* DARK BACKGROUND */
-/*.background {
+.background {
   position: fixed;
   top: 0;
   left: 0;
@@ -137,7 +137,8 @@ input {
   background: radial-gradient(circle at center, #00111e 40%, #000305 100%);
   background-color: #00111e;
 }
-.background:after {
+
+/*.background:after {
   content: '';
   position: absolute;
   top: 0;
