@@ -150,10 +150,11 @@ input {
   transition: opacity .4s ease;
 }
 
-/*:checked ~ .background:after {
+:checked~.background:after {
   opacity: 1;
   transition-delay: 1.8s;
 }
+
 /* LAMP */
 /*.lamp {
   position: absolute;
