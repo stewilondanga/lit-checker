@@ -64,10 +64,11 @@ input {
   filter: brightness(1.3);
 }
 
-/*:checked + .switch > .switch-lever {
+:checked+.switch>.switch-lever {
   transform: none;
 }
-.switch-lever:before {
+
+/*.switch-lever:before {
   content: '';
   position: absolute;
   top: -60px;
