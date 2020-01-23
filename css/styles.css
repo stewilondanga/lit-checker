@@ -68,7 +68,7 @@ input {
   transform: none;
 }
 
-/*.switch-lever:before {
+.switch-lever:before {
   content: '';
   position: absolute;
   top: -60px;
@@ -77,7 +77,8 @@ input {
   height: 60px;
   background-color: var(--metal);
 }
-.switch-lever:after {
+
+/*.switch-lever:after {
   content: '';
   position: absolute;
   top: -115px;
