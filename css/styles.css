@@ -122,9 +122,10 @@ input {
   left: 18px;
 }
 
-/*.switch-contact:after {
+.switch-contact:after {
   right: 18px;
 }
+
 /* DARK BACKGROUND */
 /*.background {
   position: fixed;
