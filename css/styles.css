@@ -113,11 +113,12 @@ input {
   border-width: 0 2px;
 }
 
-/*.switch-contact:nth-of-type(3):before,
+.switch-contact:nth-of-type(3):before,
 .switch-contact:nth-of-type(3):after {
   bottom: 140px;
 }
-.switch-contact:before {
+
+/*.switch-contact:before {
   left: 18px;
 }
 .switch-contact:after {
