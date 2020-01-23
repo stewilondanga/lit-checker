@@ -118,10 +118,11 @@ input {
   bottom: 140px;
 }
 
-/*.switch-contact:before {
+.switch-contact:before {
   left: 18px;
 }
-.switch-contact:after {
+
+/*.switch-contact:after {
   right: 18px;
 }
 /* DARK BACKGROUND */
