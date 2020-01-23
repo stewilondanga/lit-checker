@@ -6,6 +6,12 @@
   box-sizing: border-box;
 }
 
+:root {
+  --wood: #533827;
+  --metal: #4d4d4d;
+  --metal-dark: #292929;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -29,11 +35,6 @@
   height: 1.5em;
 }
 
-:root {
-  --wood: #533827;
-  --metal: #4d4d4d;
-  --metal-dark: #292929;
-}
 
 /* SWITCH */
 /*input {
