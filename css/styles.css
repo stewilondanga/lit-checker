@@ -1,3 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -21,13 +29,6 @@
   height: 1.5em;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 :root {
   --wood: #533827;
   --metal: #4d4d4d;
