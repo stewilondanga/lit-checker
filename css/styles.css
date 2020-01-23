@@ -78,7 +78,7 @@ input {
   background-color: var(--metal);
 }
 
-/*.switch-lever:after {
+.switch-lever:after {
   content: '';
   position: absolute;
   top: -115px;
