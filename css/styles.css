@@ -44,7 +44,7 @@ input {
 }
 
 /* SWITCH LEVER - thing that flips */
-/*.switch-lever {
+.switch-lever {
   position: absolute;
   bottom: 30px;
   left: 20px;
@@ -58,7 +58,8 @@ input {
   transform: rotateX(180deg);
   transition: transform 2s ease;
 }
-:checked + .switch {
+
+/*:checked + .switch {
   transition: transform 2s ease, filter .2s ease 1.8s;
   filter: brightness(1.3);
 }
