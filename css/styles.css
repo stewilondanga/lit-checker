@@ -28,10 +28,11 @@
 }
 
 /* SWITCH */
-/*input {
+input {
   display: none;
 }
-.switch {
+
+/*.switch {
   position: absolute;
   top: 50%;
   left: 300px;
