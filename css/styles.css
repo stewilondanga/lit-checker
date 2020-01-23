@@ -32,7 +32,7 @@ input {
   display: none;
 }
 
-/*.switch {
+.switch {
   position: absolute;
   top: 50%;
   left: 300px;
@@ -42,6 +42,7 @@ input {
   border-radius: 7px;
   background-color: var(--wood);
 }
+
 /* SWITCH LEVER - thing that flips */
 /*.switch-lever {
   position: absolute;
