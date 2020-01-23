@@ -165,7 +165,7 @@ input {
   background-color: #000;
 }
 
-/*.lamp:before {
+.lamp:before {
   content: '';
   position: absolute;
   left: -5px;
@@ -176,7 +176,8 @@ input {
   height: 0;
   width: 5px;
 }
-.lamp:after {
+
+/*.lamp:after {
   content: '';
   position: absolute;
   top: calc(100% + 14px);
